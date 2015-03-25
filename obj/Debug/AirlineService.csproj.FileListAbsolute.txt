@@ -1,0 +1,5 @@
+C:\Users\Nimaz\documents\visual studio 2013\Projects\AirlineService\AirlineService\obj\Debug\AirlineService.csprojResolveAssemblyReference.cache
+C:\Users\Nimaz\documents\visual studio 2013\Projects\AirlineService\AirlineService\bin\Debug\AirlineService.dll
+C:\Users\Nimaz\documents\visual studio 2013\Projects\AirlineService\AirlineService\bin\Debug\AirlineService.pdb
+C:\Users\Nimaz\documents\visual studio 2013\Projects\AirlineService\AirlineService\obj\Debug\AirlineService.dll
+C:\Users\Nimaz\documents\visual studio 2013\Projects\AirlineService\AirlineService\obj\Debug\AirlineService.pdb
